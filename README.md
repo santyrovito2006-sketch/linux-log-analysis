@@ -6,6 +6,8 @@ En este proyecto analicé archivos de logs utilizando comandos de Linux para ide
 
 Este proyecto lo realicé como parte de mi aprendizaje en ciberseguridad, enfocándome en el análisis de información a partir de logs.  
 
+Este proyecto fue realizado como parte de mi formación en ciberseguridad (Google Cybersecurity Certificate).
+
 ---
 
 ## 🛠️ Herramientas utilizadas  
