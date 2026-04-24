@@ -21,6 +21,7 @@ Este proyecto lo realicé como parte de mi aprendizaje en ciberseguridad, enfoc�
 
 bash
 grep error server_logs.txt
+
 Este comando permite filtrar y mostrar únicamente las líneas que contienen la palabra "error".
 
 📄 Visualización rápida
@@ -39,9 +40,13 @@ ls | grep Q1
 Permite filtrar archivos por nombre.
 
 🧠 Lo que aprendí
+
 Uso de grep para analizar logs
+
 Cómo filtrar información relevante
+
 Uso de pipes para combinar comandos
+
 Importancia del análisis de logs en ciberseguridad
 
 🚀 Objetivo
