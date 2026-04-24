@@ -10,9 +10,12 @@ Este proyecto lo realicé como parte de mi aprendizaje en ciberseguridad, enfoc�
 
 ## 🛠️ Herramientas utilizadas  
 
-- Linux  
-- Bash  
-- grep  
+- Linux
+   
+- Bash
+   
+- grep
+  
 - head  
 
 ---
@@ -25,11 +28,13 @@ grep error server_logs.txt
 Este comando permite filtrar y mostrar únicamente las líneas que contienen la palabra "error".
 
 📄 Visualización rápida
+
 head server_logs.txt
 
 Permite ver las primeras líneas del archivo, útil para analizar logs grandes.
 
 🔎 Búsqueda de información específica
+
 grep jhill Q2_deleted_users.txt
 
 Permite encontrar datos concretos dentro de un archivo.
@@ -50,4 +55,5 @@ Uso de pipes para combinar comandos
 Importancia del análisis de logs en ciberseguridad
 
 🚀 Objetivo
+
 Seguir desarrollando habilidades en análisis de logs para detectar problemas y posibles amenazas en sistemas.
