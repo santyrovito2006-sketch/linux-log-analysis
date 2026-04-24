@@ -46,6 +46,20 @@ ls | grep Q1
 
 Permite filtrar archivos por nombre.
 
+
+ 🔐 Interpretación de permisos  
+
+Ejemplo: -rw-rw-r--  
+
+- El primer carácter indica el tipo de archivo
+  
+- rw → permisos del usuario (lectura y escritura)
+  
+- rw → permisos del grupo
+  
+- r-- → permisos de otros (solo lectura)
+  
+
 🧠 Lo que aprendí
 
 Uso de grep para analizar logs
